@@ -31,6 +31,8 @@ Application built with the MERN stack (MongoDB, Express, React, Node.js) and Vit
 
 ![Demo](demo/demo.png)
 
+![Click to see the live demo](https://mern-crud-ob7a.onrender.com/)
+
 ### Prerequisites
 
 Ensure you have the following installed on your machine:
